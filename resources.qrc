@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/add_button_img.png</file>
+        <file>resources/stop_button_img.png</file>
+        <file>resources/hourglass_icon.png</file>
+    </qresource>
+</RCC>
